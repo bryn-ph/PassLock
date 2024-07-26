@@ -2,7 +2,7 @@
 Simple password manager program.
 
 - Created using Java with JavaFX GUI
-- Securely encrypted password data with AES algorithm
+- Securely encrypted password data with an AES algorithm
 - Intended for personal/education use
 
 
